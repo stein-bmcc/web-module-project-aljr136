@@ -15,6 +15,21 @@ body {
 }
 
 img, video {
-    max-width: 100%;
+    max-width: 80%;
     height: auto;
 }
+h3{
+    font-family: "Courier", serif;
+  }
+  h3{
+    background-color: 
+  #ffffff;
+  }
+  body{
+    max-width: 90ch;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  header, footer{
+    text-align: left;
+  }
